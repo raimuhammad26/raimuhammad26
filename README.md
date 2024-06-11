@@ -2,7 +2,7 @@
 <h3 align="center">💚 Certified Node.js Developer with 3+ years experience</h3>
 
 <p align="center">
-- 📫 How to reach me **https://linkedin.com/in/mbs26**
+- 📫 How to reach me <b> https://linkedin.com/in/mbs26 </b>
 </p>
 
 <h3 align="center">Connect with me:</h3>
