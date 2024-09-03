@@ -8,6 +8,7 @@
 <h3 align="center">Education:</h3>
 <p align="center">🎓 M.Sc. in Computer Science, QAU Islamabad, 2020</p>
 <p align="center">🎓 Back End Development and APIs Certification, FCC, 2022</p>
+<p align="center">🎓 Front End Development Libraries Certification, FCC, 2024</p>
 
 
 <h3 align="center">Connect with me:</h3>
